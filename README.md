@@ -1,7 +1,7 @@
 # filed_payments
-###### author : Prashant Rana
-###### email: uchiha.rana62@gmail.com
-###### Operating system used: Ubuntu 20.04
+###### author : Avinash Gudipudi
+###### email: gvnsavinash@gmail.com
+###### Operating system used: Windows 10
 
 Coding exercise:  
 
