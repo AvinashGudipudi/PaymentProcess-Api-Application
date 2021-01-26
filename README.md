@@ -1,11 +1,11 @@
-# filed_payments
-###### author : Avinash Gudipudi
+# Payment_Process
+###### Author : Avinash Gudipudi
 ###### email: gvnsavinash@gmail.com
 ###### Operating system used: Windows 10
 
 Coding exercise:  
 
-Write a Flask Web API with only 1 method called “ProcessPayment” that receives a request like this
+A Flask Web API with only 1 method called “ProcessPayment” that receives a request like this
 
     -CreditCardNumber(mandatory, string, it should be a valid credit card number)
     -CardHolder`: (mandatory, string)
